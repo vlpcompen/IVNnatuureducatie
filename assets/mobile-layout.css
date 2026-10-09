@@ -1,0 +1,8 @@
+@media (max-width: 700px) {
+  #main .section-loop,
+  #main .section-loop .flex-container,
+  #main .section-loop .loop {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+}
